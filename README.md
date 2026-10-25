@@ -1,5 +1,7 @@
 # Exploring Gender Pay Gaps in the United States
 
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?logo=tidyverse&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-z--test-4B8BBE) ![Bootstrapping](https://img.shields.io/badge/Bootstrapping-95%25%20CI-2E8B57)
+
 A statistical inference study testing whether women are underrepresented in higher-paying jobs, using U.S. Census income data.
 
 **Result:** 32.1% of men earned over $50,000, compared with 11.5% of women, a gap of **20.7 percentage points** (95% CI: 19.7 to 21.6). The gap held in every job sector tested.
